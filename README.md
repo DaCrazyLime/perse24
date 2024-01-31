@@ -36,7 +36,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - TAN HONG ERN
 - TAN JU LYAN
 - TAN YAN CONG KAYVEN
-- TAY JARETH
+- TAY JARETH  https://github.com/DaCrazyLime/perse24.
 - YE XINCHENG
 - BU PING JIN
 - CHUA NIAN HENG JOHNATHAN
